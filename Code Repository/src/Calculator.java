@@ -105,6 +105,7 @@ public class Calculator {
 					
 					//exit the program if entered 0
 					System.exit(0); 
+					
 				} 
 				
 				else {
